@@ -1,0 +1,19 @@
+{
+  "name": "pg-prepared",
+  "version": "2.5.11",
+  "description": "Prepare pg queries with named arguments.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pihvi/pg-prepared.git"
+  },
+  "keywords": [
+    "prepared",
+    "statement",
+    "sql",
+    "postgres",
+    "pg",
+    "node"
+  ],
+  "license": "ISC"
+}
