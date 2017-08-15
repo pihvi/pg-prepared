@@ -1,5 +1,7 @@
 ### Usgae
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pihvi/pg-prepared.svg)](https://greenkeeper.io/)
+
 ```javascript
 var prep = require('pg-prepared')
 
